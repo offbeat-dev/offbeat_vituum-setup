@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@vituum/handlebars": "^0.1.1",
     "vituum": "^0.0.38"
   }
 }

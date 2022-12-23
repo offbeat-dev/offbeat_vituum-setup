@@ -1,8 +1,9 @@
 import { resolve } from "path";
 import { defineConfig } from "vituum";
+import handlebars from "@vituum/handlebars";
 
 const config = {
-  ...defineConfig(),
+  ...defineConfig({ integrations: [handlebars()] }),
   vituum: {
     ...defineConfig().vituum,
     input: [...defineConfig().vituum.input, "./src/html/**/*.html"],
