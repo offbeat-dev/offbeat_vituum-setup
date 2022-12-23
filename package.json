@@ -1,0 +1,15 @@
+{
+  "name": "offbeat_vituum-setup",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Paulo Guerra <pauolo.guerra@anchorageguest.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vituum build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vituum": "^0.0.38"
+  }
+}
