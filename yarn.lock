@@ -161,7 +161,7 @@
     "@vituum/vite-plugin-handlebars" "^0.1.0"
     lodash "^4.17.21"
 
-"@vituum/vite-plugin-handlebars@^0.1.0":
+"@vituum/vite-plugin-handlebars@^0.1.0", "@vituum/vite-plugin-handlebars@^0.1.9":
   version "0.1.9"
   resolved "https://registry.yarnpkg.com/@vituum/vite-plugin-handlebars/-/vite-plugin-handlebars-0.1.9.tgz#357d70504a1186b9a22b92caf36bcfd6b894846a"
   integrity sha512-GIur1ZDh/RBqWR5m8e+QVZaVfgo7ucA3PE95DK4QPmQQpzPif8cLiCiPJh6y27UE9meVbE2SG3lEA84KzISE7Q==
@@ -623,7 +623,7 @@ util-deprecate@^1.0.2:
   resolved "https://registry.yarnpkg.com/util-deprecate/-/util-deprecate-1.0.2.tgz#450d4dc9fa70de732762fbd2d4a28981419a0ccf"
   integrity sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==
 
-vite@^4.0.0:
+vite@^4.0.0, vite@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/vite/-/vite-4.0.3.tgz#de27ad3f263a03ae9419cdc8bc07721eadcba8b9"
   integrity sha512-HvuNv1RdE7deIfQb8mPk51UKjqptO/4RXZ5yXSAvurd5xOckwS/gg8h9Tky3uSbnjYTgUm0hVCet1cyhKd73ZA==
