@@ -1,1 +1,1 @@
-document.addEventListener("click", () => console.log("test"));
+document.addEventListener("click", () => console.log("tests"));
